@@ -8,4 +8,4 @@ Bigbites is a responsive html template with mealdb API having some e-commerce fu
   - you can add any item to the cart
   - quantity is also shown in the cart
 
-###live site: [BigBites](https://babulakterfsd.github.io/bigbites)
+###live site: [BigBites](https://bigbites-babulakterfsd.netlify.app/)
