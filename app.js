@@ -139,6 +139,7 @@ const seeFoodCatagories = (strCategory) => {
   });
 };
 
+//cart implemented
 const makeCard = (target, data, type) => {
   let eachItem = {};
 
